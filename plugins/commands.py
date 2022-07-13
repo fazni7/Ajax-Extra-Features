@@ -44,7 +44,7 @@ async def start(client, message):
             InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/TamilRockers_FZN'),
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/+YLdUTLqM5p5jNjY1')
             ],[      
-            InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
+            InlineKeyboardButton('♻️ CONTACT ME ♻️', url='https://t.me/itsKd_Fazni'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/TamilRockers_FZN')
@@ -87,7 +87,7 @@ async def start(client, message):
             InlineKeyboardButton('💠 CHΛИИΞL 💠', url='https://t.me/TamilRockers_FZN'),
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/+YLdUTLqM5p5jNjY1')
             ],[      
-            InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
+            InlineKeyboardButton('♻️ CONTACT ME ♻️', url='https://t.me/itsKd_Fazni'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/TamilRockers_FZN')
