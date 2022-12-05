@@ -1,4 +1,4 @@
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=http://github.com/fazni7/Ajax-Extra-Features&branch=main&name=tamilrockerzbot)
 
 <p align="center">
   <img src="assets/AJAX.png" alt="Ajax-Extra-FeaturesLogo">
